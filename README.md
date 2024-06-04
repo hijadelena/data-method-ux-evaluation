@@ -15,7 +15,7 @@ Este repositorio contiene el análisis de métricas de experiencia del usuario (
 
 ## 📚 Descripción General
 
-Este proyecto se centra en la evaluación y mejora de la experiencia del usuario (UX) utilizando el **Método HEART**. A través de un análisis exploratorio de datos (EDA) y el tratamiento de outliers, se busca comprender mejor la interacción de los usuarios con un sitio web de comercio electrónico y mejorar su experiencia.
+Este proyecto se centra en la evaluación y mejora de la experiencia del usuario (UX) utilizando el **Método HEART**. A través de un análisis exploratorio de datos (EDA) y el tratamiento de outliers, se busca comprender mejor la interacción de los usuarios con un sitio web de comercio electrónico y mejorar su experiencia.La practica se realiza con las metricas disponibles en el data frame, aunque pueden variar, de acuerdo al producto y datos que tengamos.
 
 ## 🔍 Análisis Exploratorio de Datos (EDA)
 
